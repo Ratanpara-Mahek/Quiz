@@ -1,0 +1,20 @@
+Q: What is the currency of Japan?
+A: Yen
+Q: Who wrote the play "Romeo and Juliet"?
+A: William Shakespeare
+Q: Which gas makes up the majority of Earth's atmosphere?
+A: Nitrogen
+Q: Who is the author of the Harry Potter book series?
+A: J.K. Rowling
+Q: What is the largest organ in the human body?
+A: Skin
+Q: In which country is the Great Barrier Reef located?
+A: Australia
+Q: What is the chemical symbol for silver?
+A: Ag
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci
+Q: What is the capital of Brazil?
+A: Brasília
+Q: What is the process by which plants make their own food using sunlight?
+A: Photosynthesis

@@ -1,0 +1,20 @@
+Q: What is the Binary number for decimal number 2?
+A: 10
+Q: What is the size of 1GB ?
+A: 1024MB
+Q: How many bits are in a byte?
+A: 8
+Q: What is the hexadecimal representation of binary number 1010?
+A: A
+Q: What is the capital of Gujarat ?
+A: Gandhinagar
+Q: Who is the current Prime Minister of India?
+A: Narendra Modi
+Q: What is the square root of 9?
+A: 3
+Q: Where is Nirma university is located ?
+A: Ahmedabad
+Q: What is formula of water ?
+A: H2O
+Q: What is the capital of India ?
+A: New Delhi
